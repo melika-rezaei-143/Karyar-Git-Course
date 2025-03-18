@@ -20,4 +20,5 @@ If you've finished the course, please add your name and github account in a Pull
 | Mohammad Amin Najafi | [Github](https://github.com/Amin-najafi) |
 | Fateme Mohseni | [Github](https://github.com/Fate-me) |
 | Ali Moradi | [Github](https://github.com/alimoradi85) |
+| Melika Rezaei | [Github](https://github.com/melika-rezaei-143) |
 
